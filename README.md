@@ -18,7 +18,7 @@ This is the implementation of the experiments presented in our paper:
 ├── malicious.py                  # Adversarial preference attack for toy data
 ├── reward.py                     # Reward model for toy data
 ├── ddpm-torch/                   # Customized ddpm
-├── data/, models/     # Data, pretrained models
+├── data/, models/                # Data, pretrained models
 ```
 
 ## Setup
