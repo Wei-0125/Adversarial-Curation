@@ -24,8 +24,8 @@ This is the implementation of the experiments presented in our paper:
 ## Setup
 
 ```bash
-git clone https://github.com/Wei-0125/adversarial-curation.git
-cd adversarial-curation
+git clone https://github.com/Wei-0125/Adversarial-Curation.git
+cd Adversarial-Curation
 pip install -r requirements.txt
 ```
 
