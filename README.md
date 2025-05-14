@@ -1,4 +1,4 @@
-# Self-Consuming Generative Models with Adversarially Curated Data
+# Adversarial Curation
 
 This is the implementation of the experiments presented in our paper:
 
