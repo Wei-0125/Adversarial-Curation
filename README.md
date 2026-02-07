@@ -2,10 +2,7 @@
 
 This is the implementation of the experiments presented in our paper:
 
-**Self-Consuming Generative Models with Adversarially Curated Data**
-
- *Paper coming soon on arXiv*  
-<!-- Replace this line with a link when available: [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) -->
+[**Self-Consuming Generative Models with Adversarially Curated Data**](https://arxiv.org/pdf/2505.09768)
 
 ---
 
